@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
+title: 제주대학교 컴퓨터공학전공 16학번 허정민
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: gjwjdals96@naver.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+url: "https://hjm8560.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
